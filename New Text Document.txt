@@ -126,7 +126,9 @@ This indicates very strong performance on this dataset.
 
 🔧 Technologies Used
 
-numpy>=1.24.0
-pandas>=2.0.0
-scikit-learn>=1.3.0
-matplotlib>=3.8.0
+numpy==1.26.0
+pandas==2.1.0
+scikit-learn==1.3.2
+matplotlib==3.8.0
+
+
